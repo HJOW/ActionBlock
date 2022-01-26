@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388001331321",
+    "project_id": "actionblock-97265",
+    "storage_bucket": "actionblock-97265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388001331321:android:7e95ad88bf0b87a79cfca8",
+        "android_client_info": {
+          "package_name": "com.hjow.actionblock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388001331321-70ahbq20q39nu44kc3b6h01205jst95u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuDzYexE7v8r8EADxkZAPE58joYsCBnXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388001331321-70ahbq20q39nu44kc3b6h01205jst95u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
