@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ActionBlock</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">C3NAAtysdRfg-V4cAIc1yMhYTdskvrAqSxnf0</string>
 </resources>
