@@ -1,2 +1,8 @@
 # ActionBlock
-Make simple program with touch UI without codes.
+여러 단계에 걸쳐 계산을 해야 하거나, 자주 사용하는 반복 작업들이 있나요?
+코드없이 ActionBlock 으로 작업 리스트를 작성해 놓고, 필요할 때 간단하게 실행해 보세요.
+=============================================================================
+
+# 1. 저작권 관련 사항
+이 프로젝트는 Apache License 2.0 을 따릅니다.
+https://www.apache.org/licenses/LICENSE-2.0
